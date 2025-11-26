@@ -1,0 +1,11 @@
+# 编译生成文件
+build/
+*.o
+*.out
+*.exe
+
+# VS Code配置（如果不想上传.vscode目录）
+.vscode/
+
+# 其他临时文件
+*.log
